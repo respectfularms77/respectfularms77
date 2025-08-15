@@ -15,10 +15,11 @@
 ## 🛠 Tech Stack
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
 ---
 
@@ -37,14 +38,14 @@
 
 ## 📫 Connect with Me
 <p>
-<a href="https://linkedin.com/in/arpit-kumar-mohanty">
+<a href="https://www.linkedin.com/in/akmohanty0007/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:arpitkmohanty.official@gmail.com">
+<a href="mailto:kmohantyarpit39@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/PhantomRacer">
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+<a href="https://www.cloudskillsboost.google/public_profiles/c6eb0c61-2093-41ab-a887-a2b66a085186">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-4285F4?logo=googlecloud&logoColor=white" />
 </a>
 </p>
 

@@ -41,7 +41,7 @@
 <a href="https://www.linkedin.com/in/akmohanty0007/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:mohantyarpit39@gmail.com">
+<a href="mailto:mohantyarpit39@gmail.com?subject=Contact%20from%20GitHub%20Profile">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.cloudskillsboost.google/public_profiles/c6eb0c61-2093-41ab-a887-a2b66a085186">
